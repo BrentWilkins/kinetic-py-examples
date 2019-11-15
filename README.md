@@ -1,4 +1,4 @@
-# Kinetic Pyhton Examples
+# Kinetic Python Examples
 This project contains code examples using the Kinetic Python library
 
 ## Initial Setup
